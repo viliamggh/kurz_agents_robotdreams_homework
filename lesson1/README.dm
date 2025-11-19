@@ -2,4 +2,6 @@
 
 Run the scipt:
 
-```uv run --with openai --with requests hw.py```
+```
+uv run --with openai --with requests hw.py
+```
